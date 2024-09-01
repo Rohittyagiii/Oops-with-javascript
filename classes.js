@@ -21,6 +21,6 @@ class BankAccount {
 
 const rohitAccount = new BankAccount("Rohit",2000);
 // rohitAccount.deposit(3000)
-// rohitAccount.withdraw(1900
+// rohitAccount.withdraw(1900)
 
 console.log(rohitAccount);
